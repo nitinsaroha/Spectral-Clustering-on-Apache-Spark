@@ -1,4 +1,4 @@
-# Stochastic-Gradient-Descent-for-Matrix-Factorization-on-spark
+# Spectral Clustering
 Implementation of Spectral Clustering in Apache Spark.
 
 Dataset used is synthetic data, generated on-the-fly using random number generators (specifically,
